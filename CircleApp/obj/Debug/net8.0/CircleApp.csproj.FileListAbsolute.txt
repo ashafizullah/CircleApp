@@ -28,3 +28,4 @@
 /Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/obj/Debug/net8.0/CircleApp.pdb
 /Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/obj/Debug/net8.0/CircleApp.genruntimeconfig.cache
 /Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/obj/Debug/net8.0/ref/CircleApp.dll
+/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/obj/Debug/net8.0/CircleApp.sourcelink.json

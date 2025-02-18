@@ -5,16 +5,56 @@
       "PackagePath": "staticwebassets/CircleApp.bundle.scp.css"
     },
     {
-      "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
+      "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/css/tailwind.css",
+      "PackagePath": "staticwebassets/css/tailwind.css"
     },
     {
       "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/images/favicon.png",
+      "PackagePath": "staticwebassets/images/favicon.png"
+    },
+    {
+      "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/images/icons/group-2.png",
+      "PackagePath": "staticwebassets/images/icons/group-2.png"
+    },
+    {
+      "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/images/icons/home.png",
+      "PackagePath": "staticwebassets/images/icons/home.png"
+    },
+    {
+      "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/images/icons/page.png",
+      "PackagePath": "staticwebassets/images/icons/page.png"
+    },
+    {
+      "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/images/icons/video.png",
+      "PackagePath": "staticwebassets/images/icons/video.png"
+    },
+    {
+      "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/js/script.js",
+      "PackagePath": "staticwebassets/js/script.js"
+    },
+    {
+      "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/js/simplebar.js",
+      "PackagePath": "staticwebassets/js/simplebar.js"
+    },
+    {
       "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/js/uikit.min.js",
+      "PackagePath": "staticwebassets/js/uikit.min.js"
     },
     {
       "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/lib/bootstrap/LICENSE",
@@ -243,6 +283,26 @@
     {
       "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/syntax-highlighter/scripts/shBrushJScript.js",
+      "PackagePath": "staticwebassets/syntax-highlighter/scripts/shBrushJScript.js"
+    },
+    {
+      "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/syntax-highlighter/scripts/shBrushXml.js",
+      "PackagePath": "staticwebassets/syntax-highlighter/scripts/shBrushXml.js"
+    },
+    {
+      "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/syntax-highlighter/scripts/shCore.js",
+      "PackagePath": "staticwebassets/syntax-highlighter/scripts/shCore.js"
+    },
+    {
+      "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/syntax-highlighter/styles/shCore.css",
+      "PackagePath": "staticwebassets/syntax-highlighter/styles/shCore.css"
+    },
+    {
+      "Id": "/Users/adamsuchihafizullah/RiderProjects/CircleApp/CircleApp/wwwroot/syntax-highlighter/styles/shCoreMidnight.css",
+      "PackagePath": "staticwebassets/syntax-highlighter/styles/shCoreMidnight.css"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.CircleApp.Microsoft.AspNetCore.StaticWebAssets.props",
